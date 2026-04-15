@@ -1,0 +1,12 @@
+services:
+  db:
+    image: pgvector/pgvector:pg16 # pgvector가 내장된 공식 이미지
+    container_name: _
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_USER: _
+      POSTGRES_PASSWORD: _
+      POSTGRES_DB: _
+    volumes:
+      - ./postgres_data:/var/lib/postgresql/data

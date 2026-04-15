@@ -1,0 +1,930 @@
+[
+  {
+    "tag_id": "eos-II-R01",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "Form the possessive singular of nouns by adding 's.",
+    "core_formula": "Form the possessive singular of nouns by adding 's",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Follow this rule whatever the final consonant. Thus write, This is the usage of the United States Government Printing Office and of the Oxford University Press. Exceptions are the possessive of ancient proper names in _-es_ and _-is_, the possessive _Jesus'_, and such forms as _for conscience' sake_, _for righteousness' sake_. But such forms as _Achilles' heel_, _Moses' laws_, _Isis' temple_ are commonly replaced by The pronominal possessives _hers_, _its_, _theirs_, _yours_, and _oneself_ have no apostrophe."
+  },
+  {
+    "tag_id": "eos-II-R02",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "In a series of three or more terms with a single conjunction, use a comma after each term except the last.",
+    "core_formula": "In a series of three or more terms with a single conjunction, use a comma after each term except the last",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Thus write, This is also the usage of the Government Printing Office and of the Oxford University Press. In the names of business firms the last comma is omitted, as,"
+  },
+  {
+    "tag_id": "eos-II-R03",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "Enclose parenthetic expressions between commas.",
+    "core_formula": "Enclose parenthetic expressions between commas",
+    "checklist": [
+      "(1) the year, when forming part of a date, and the day of the month,",
+      "(2) the abbreviations _etc._ and _jr._",
+      "(3) non-restrictive relative clauses, that is, those which do not serve"
+    ],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "This rule is difficult to apply; it is frequently hard to decide whether a single word, such as _however_, or a brief phrase, is or is not parenthetic. If the interruption to the flow of the sentence is but slight, the writer may safely omit the commas. But whether the interruption be slight or considerable, he must never insert one comma and omit the other. Such punctuation as or is indefensible. If a parenthetic expression is preceded by a conjunction, place the first comma before the conjunction, not after it. Always to be regarded as parenthetic and to be enclosed between commas (or, at the end of the sentence, between comma and period) are the following: (1) the year, when forming part of a date, and the day of the month, when following the day of the week: (2) the abbreviations _etc._ and _jr._ (3) non-restrictive relative clauses, that is, those which do not serve to identify or define the antecedent noun, and similar clauses introduced by conjunctions indicating time or..."
+  },
+  {
+    "tag_id": "eos-II-R04",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "Place a comma before a conjunction introducing a co-ordinate clause.",
+    "core_formula": "Place a comma before a conjunction introducing a co-ordinate clause",
+    "checklist": [],
+    "wrong_example": "my way about.",
+    "correct_example": "As I had never been in the place before, I had difficulty in finding",
+    "original_description": "Sentences of this type, isolated from their context, may seem to be in need of rewriting. As they make complete sense when the comma is reached, the second clause has the appearance of an afterthought. Further, _and_ is the least specific of connectives. Used between independent clauses, it indicates only that a relation exists between them without defining that relation. In the example above, the relation is that of cause and result. The two sentences might be rewritten: Or the subordinate clauses might be replaced by phrases: But a writer may err by making his sentences too uniformly compact and periodic, and an occasional loose sentence prevents the style from becoming too formal and gives the reader a certain relief. Consequently, loose sentences of the type first quoted are common in easy, unstudied writing. But a writer should be careful not to construct too many of his sentences after this pattern (see Rule 14). Two-part sentences of which the second member is introduced by..."
+  },
+  {
+    "tag_id": "eos-II-R05",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "Do not join independent clauses by a comma.",
+    "core_formula": "Do not join independent clauses by a comma",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "If two or more clauses, grammatically complete and not joined by a conjunction, are to form a single compound sentence, the proper mark of punctuation is a semicolon. It is of course equally correct to write the above as two sentences each, replacing the semicolons by periods. If a conjunction is inserted the proper mark is a comma (Rule 4). A comparison of the three forms given above will show clearly the advantage of the first. It is, at least in the examples given, better than the second form, because it suggests the close relationship between the two statements in a way that the second does not attempt, and better than the third, because briefer and therefore more forcible. Indeed it may be said that this simple method of indicating relationship between statements is one of the most useful devices of composition. The relationship, as above, is commonly one of cause or of consequence. Note that if the second clause is preceded by an adverb, such as _accordingly_, _besides_,..."
+  },
+  {
+    "tag_id": "eos-II-R06",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "Do not break sentences in two.",
+    "core_formula": "Do not break sentences in two",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "In other words, do not use periods for commas. In both these examples, the first period should be replaced by a comma, and the following word begun with a small letter. It is permissible to make an emphatic word or expression serve the purpose of a sentence and to punctuate it accordingly: The writer must, however, be certain that the emphasis is warranted, and that he will not be suspected of a mere blunder in syntax or in punctuation. Rules 3, 4, 5, and 6 cover the most important principles in the punctuation of ordinary sentences; they should be so thoroughly mastered that their application becomes second nature."
+  },
+  {
+    "tag_id": "eos-II-R07",
+    "category": "Elementary Rules of Usage",
+    "rule_name": "A participial phrase at the beginning of a sentence must refer to the grammatical subject.",
+    "core_formula": "A participial phrase at the beginning of a sentence must refer to the grammatical subject",
+    "checklist": [],
+    "wrong_example": "On arriving in Chicago, his friends met him at the station.",
+    "correct_example": "When he arrived (or, On his arrival) in Chicago, his friends met him",
+    "original_description": "The word _walking_ refers to the subject of the sentence, not to the woman. If the writer wishes to make it refer to the woman, he must recast the sentence: Participial phrases preceded by a conjunction or by a preposition, nouns in apposition, adjectives, and adjective phrases come under the same rule if they begin the sentence. Sentences violating this rule are often ludicrous."
+  },
+  {
+    "tag_id": "eos-III-R08",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Make the paragraph the unit of composition: one paragraph to each topic.",
+    "core_formula": "Make the paragraph the unit of composition: one paragraph to each topic",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "If the subject on which you are writing is of slight extent, or if you intend to treat it very briefly, there may be no need of subdividing it into topics. Thus a brief description, a brief summary of a literary work, a brief account of a single incident, a narrative merely outlining an action, the setting forth of a single idea, any one of these is best written in a single paragraph. After the paragraph has been written, examine it to see whether subdivision will not improve it. Ordinarily, however, a subject requires subdivision into topics, each of which should be made the subject of a paragraph. The object of treating each topic in a paragraph by itself is, of course, to aid the reader. The beginning of each paragraph is a signal to him that a new step in the development of the subject has been reached. The extent of subdivision will vary with the length of the composition. For example, a short notice of a book or poem might consist of a single paragraph. One slightly longer..."
+  },
+  {
+    "tag_id": "eos-III-R09",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "As a rule, begin each paragraph with a topic sentence, end it in conformity with the beginning.",
+    "core_formula": "As a rule, begin each paragraph with a topic sentence, end it in conformity with the beginning",
+    "checklist": [
+      "(a) the topic sentence comes at or near the beginning;",
+      "(b) the succeeding sentences explain or establish or develop the",
+      "(c) the final sentence either emphasizes the thought of the topic"
+    ],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Again, the object is to aid the reader. The practice here recommended enables him to discover the purpose of each paragraph as he begins to read it, and to retain this purpose in mind as he ends it. For this reason, the most generally useful kind of paragraph, particularly in exposition and argument, is that in which (a) the topic sentence comes at or near the beginning; (b) the succeeding sentences explain or establish or develop the statement made in the topic sentence; and (c) the final sentence either emphasizes the thought of the topic sentence or states some important consequence. Ending with a digression, or with an unimportant detail, is particularly to be avoided. If the paragraph forms part of a larger composition, its relation to what precedes, or its function as a part of the whole, may need to be expressed. This can sometimes be done by a mere word or phrase (_again_; _therefore_; _for the same reason_) in the topic sentence. Sometimes, however, it is expedient to..."
+  },
+  {
+    "tag_id": "eos-III-R10",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Use the active voice.",
+    "core_formula": "Use the active voice",
+    "checklist": [],
+    "wrong_example": "Gold was not allowed to be exported.",
+    "correct_example": "It was forbidden to export gold (The export of gold was prohibited).",
+    "original_description": "The active voice is usually more direct and vigorous than the passive: This is much better than The latter sentence is less direct, less bold, and less concise. If the writer tries to make it more concise by omitting \"by me,\" it becomes indefinite: is it the writer, or some person undisclosed, or the world at large, that will always remember this visit? This rule does not, of course, mean that the writer should entirely discard the passive voice, which is frequently convenient and sometimes necessary. The first would be the right form in a paragraph on the dramatists of the Restoration; the second, in a paragraph on the tastes of modern readers. The need of making a particular word the subject of the sentence will often, as in these examples, determine which voice is to be used. As a rule, avoid making one passive depend directly upon another. In both the examples above, before correction, the word properly related to the second passive is made the subject of the first. A common..."
+  },
+  {
+    "tag_id": "eos-III-R11",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Put statements in positive form.",
+    "core_formula": "Put statements in positive form",
+    "checklist": [],
+    "wrong_example": "He was not very often on time.",
+    "correct_example": "He usually came late.",
+    "original_description": "Make definite assertions. Avoid tame, colorless, hesitating, non-committal language. Use the word _not_ as a means of denial or in antithesis, never as a means of evasion. The last example, before correction, is indefinite as well as negative. The corrected version, consequently, is simply a guess at the writer's intention. All three examples show the weakness inherent in the word _not_. Consciously or unconsciously, the reader is dissatisfied with being told only what is not; he wishes to be told what is. Hence, as a rule, it is better to express even a negative in positive form. The antithesis of negative and positive is strong: Negative words other than _not_ are usually strong:"
+  },
+  {
+    "tag_id": "eos-III-R12",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Use definite, specific, concrete language.",
+    "core_formula": "Use definite, specific, concrete language",
+    "checklist": [],
+    "wrong_example": "A period of unfavorable weather set in.",
+    "correct_example": "It rained every day for a week.",
+    "original_description": "Prefer the specific to the general, the definite to the vague, the concrete to the abstract. If those who have studied the art of writing are in accord on any one point, it is on this, that the surest method of arousing and holding the attention of the reader is by being specific, definite, and concrete. Critics have pointed out how much of the effectiveness of the greatest writers, Homer, Dante, Shakespeare, results from their constant definiteness and concreteness. Browning, to cite a more modern author, affords many striking examples. Take, for instance, the lines from _My Last Duchess_, and those which end the poem, These words call up pictures. Recall how in _The Bishop Orders his Tomb in St. Praxed's Church_ \"the Renaissance spirit--its worldliness, inconsistency, pride, hypocrisy, ignorance of itself, love of art, of luxury, of good Latin,\" to quote Ruskin's comment on the poem, is made manifest in specific details and in concrete terms. Prose, in particular narrative and..."
+  },
+  {
+    "tag_id": "eos-III-R13",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Omit needless words.",
+    "core_formula": "Omit needless words",
+    "checklist": [],
+    "wrong_example": "the question as to whether",
+    "correct_example": "whether (the question whether)",
+    "original_description": "Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that he make every word tell. Many expressions in common use violate this principle: In especial the expression _the fact that_ should be revised out of every sentence in which it occurs. See also under _case_, _character_, _nature_, _system_ in Chapter V. _Who is_, _which was_, and the like are often superfluous. As positive statement is more concise than negative, and the active voice more concise than the passive, many of the examples given under Rules 11 and 12 illustrate this rule as well. A common violation of conciseness is the presentation of a single complex idea, step by step, in a series of sentences or independent clauses..."
+  },
+  {
+    "tag_id": "eos-III-R14",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Avoid a succession of loose sentences:",
+    "core_formula": "Avoid a succession of loose sentences:",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "This rule refers especially to loose sentences of a particular type, those consisting of two co-ordinate clauses, the second introduced by a conjunction or relative. Although single sentences of this type may be unexceptionable (see under Rule 4), a series soon becomes monotonous and tedious. An unskilful writer will sometimes construct a whole paragraph of sentences of this kind, using as connectives _and_, _but_, _so_, and less frequently, _who_, _which_, _when_, _where_, and _while_, these last in non-restrictive senses (see under Rule 3). Apart from its triteness and emptiness, the paragraph above is weak because of the structure of its sentences, with their mechanical symmetry and sing-song. Contrast with them the sentences in the paragraphs quoted under Rule 9, or in any piece of good English prose, as the preface (Before the Curtain) to _Vanity Fair_. If the writer finds that he has written a series of sentences of the type described, he should recast enough of them to..."
+  },
+  {
+    "tag_id": "eos-III-R15",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Express co-ordinate ideas in similar form.",
+    "core_formula": "Express co-ordinate ideas in similar form",
+    "checklist": [],
+    "wrong_example": "laboratory method is employed.",
+    "correct_example": "Formerly, science was taught by the textbook method; now it is",
+    "original_description": "This principle, that of parallel construction, requires that expressions of similar content and function should be outwardly similar. The likeness of form enables the reader to recognize more readily the likeness of content and function. Familiar instances from the Bible are the Ten Commandments, the Beatitudes, and the petitions of the Lord's Prayer. The unskillful writer often violates this principle, from a mistaken belief that he should constantly vary the form of his expressions. It is true that in repeating a statement in order to emphasize it he may have need to vary its form. For illustration, see the paragraph from Stevenson quoted under Rule 9. But apart from this, he should follow the principle of parallel construction. The left-hand version gives the impression that the writer is undecided or timid; he seems unable or afraid to choose one form of expression and hold to it. The right-hand version shows that the writer has at least made his choice and abided by it. By..."
+  },
+  {
+    "tag_id": "eos-III-R16",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Keep related words together.",
+    "core_formula": "Keep related words together",
+    "checklist": [],
+    "wrong_example": "minute description of this church.",
+    "correct_example": "In the fifth book of _The Excursion_, Wordsworth gives a",
+    "original_description": "The position of the words in a sentence is the principal means of showing their relationship. The writer must therefore, so far as possible, bring together the words, and groups of words, that are related in thought, and keep apart those which are not so related. The subject of a sentence and the principal verb should not, as a rule, be separated by a phrase or clause that can be transferred to the beginning. The objection is that the interposed phrase or clause needlessly interrupts the natural order of the main clause. Usually, however, this objection does not hold when the order is interrupted only by a relative clause or by an expression in apposition. Nor does it hold in periodic sentences in which the interruption is a deliberately used means of creating suspense (see examples under Rule 18). The relative pronoun should come, as a rule, immediately after its antecedent. If the antecedent consists of a group of words, the relative comes at the end of the group, unless this..."
+  },
+  {
+    "tag_id": "eos-III-R17",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "In summaries, keep to one tense.",
+    "core_formula": "In summaries, keep to one tense",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "In summarizing the action of a drama, the writer should always use the present tense. In summarizing a poem, story, or novel, he should preferably use the present, though he may use the past if he prefers. If the summary is in the present tense, antecedent action should be expressed by the perfect; if in the past, by the past perfect. But whichever tense be used in the summary, a past tense in indirect discourse or in indirect question remains unchanged. Apart from the exceptions noted, whichever tense the writer chooses, he should use throughout. Shifting from one tense to the other gives the appearance of uncertainty and irresolution (compare Rule 15). In presenting the statements or the thought of some one else, as in summarizing an essay or reporting a speech, the writer should avoid intercalating such expressions as \"he said,\" \"he stated,\" \"the speaker added,\" \"the speaker then went on to say,\" \"the author also thinks,\" or the like. He should indicate clearly at the outset,..."
+  },
+  {
+    "tag_id": "eos-III-R18",
+    "category": "Elementary Principles of Composition",
+    "rule_name": "Place the emphatic words of a sentence at the end.",
+    "core_formula": "Place the emphatic words of a sentence at the end",
+    "checklist": [],
+    "wrong_example": "has advanced in many other ways.",
+    "correct_example": "Humanity, since that time, has advanced in many other ways, but it",
+    "original_description": "The proper place in the sentence for the word, or group of words, which the writer desires to make most prominent is usually the end. The word or group of words entitled to this position of prominence is usually the logical predicate, that is, the _new_ element in the sentence, as it is in the second example. The effectiveness of the periodic sentence arises from the prominence which it gives to the main statement. The other prominent position in the sentence is the beginning. Any element in the sentence, other than the subject, may become emphatic when placed first. A subject coming first in its sentence may be emphatic, but hardly by its position alone. In the sentence, the emphasis upon _kings_ arises largely from its meaning and from the context. To receive special emphasis, the subject of a sentence must take the position of the predicate. The principle that the proper place for what is to be made most prominent is the end applies equally to the words of a sentence, to the..."
+  },
+  {
+    "tag_id": "eos-IV-headings",
+    "category": "A Few Matters of Form",
+    "rule_name": "Headings",
+    "core_formula": "Leave a blank line, or its equivalent in space, after the",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Leave a blank line, or its equivalent in space, after the title or heading of a manuscript. On succeeding pages, if using ruled paper, begin on the first line."
+  },
+  {
+    "tag_id": "eos-IV-numerals",
+    "category": "A Few Matters of Form",
+    "rule_name": "Numerals",
+    "core_formula": "Do not spell out dates or other serial numbers. Write them",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Do not spell out dates or other serial numbers. Write them in figures or in Roman notation, as may be appropriate."
+  },
+  {
+    "tag_id": "eos-IV-parentheses",
+    "category": "A Few Matters of Form",
+    "rule_name": "Parentheses",
+    "core_formula": "A sentence containing an expression in parenthesis is",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "A sentence containing an expression in parenthesis is punctuated, outside of the marks of parenthesis, exactly as if the expression in parenthesis were absent. The expression within is punctuated as if it stood by itself, except that the final stop is omitted unless it is a question mark or an exclamation point. (When a wholly detached expression or sentence is parenthesized, the final stop comes before the last mark of parenthesis.)"
+  },
+  {
+    "tag_id": "eos-IV-quotations",
+    "category": "A Few Matters of Form",
+    "rule_name": "Quotations",
+    "core_formula": "Formal quotations, cited as documentary evidence, are",
+    "checklist": [],
+    "wrong_example": "Wordsworth's enthusiasm for the Revolution was at first unbounded:",
+    "correct_example": "Bliss was it in that dawn to be alive,",
+    "original_description": "Formal quotations, cited as documentary evidence, are introduced by a colon and enclosed in quotation marks. Quotations grammatically in apposition or the direct objects of verbs are preceded by a comma and enclosed in quotation marks. Quotations of an entire line, or more, of verse, are begun on a fresh line and centered, but need not be enclosed in quotation marks. Quotations introduced by _that_ are regarded as in indirect discourse and not enclosed in quotation marks. Proverbial expressions and familiar phrases of literary origin require no quotation marks. The same is true of colloquialisms and slang."
+  },
+  {
+    "tag_id": "eos-IV-references",
+    "category": "A Few Matters of Form",
+    "rule_name": "References",
+    "core_formula": "In scholarly work requiring exact references, abbreviate",
+    "checklist": [],
+    "wrong_example": "In the second scene of the third act",
+    "correct_example": "In III.ii (still better, simply insert III.ii in",
+    "original_description": "In scholarly work requiring exact references, abbreviate titles that occur frequently, giving the full forms in an alphabetical list at the end. As a general practice, give the references in parenthesis or in footnotes, not in the body of the sentence. Omit the words _act_, _scene_, _line_, _book_, _volume_, _page_, except when referring by only one of them. Punctuate as indicated below."
+  },
+  {
+    "tag_id": "eos-IV-syllabication",
+    "category": "A Few Matters of Form",
+    "rule_name": "Syllabication",
+    "core_formula": "If there is room at the end of a line for one or more",
+    "checklist": [
+      "(a) Divide the word according to its formation:",
+      "(b) Divide \"on the vowel:\"",
+      "(c) Divide between double letters, unless they come at the end of the",
+      "(d) Do not divide before final _-ed_ if the _e_ is silent:"
+    ],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "If there is room at the end of a line for one or more syllables of a word, but not for the whole word, divide the word, unless this involves cutting off only a single letter, or cutting off only two letters of a long word. No hard and fast rule for all words can be laid down. The principles most frequently applicable are: (a) Divide the word according to its formation: (b) Divide \"on the vowel:\" (c) Divide between double letters, unless they come at the end of the simple form of the word: (d) Do not divide before final _-ed_ if the _e_ is silent: The treatment of consonants in combination is best shown from examples: The student will do well to examine the syllable-division in a number of pages of any carefully printed book."
+  },
+  {
+    "tag_id": "eos-IV-titles",
+    "category": "A Few Matters of Form",
+    "rule_name": "Titles",
+    "core_formula": "For the titles of literary works, scholarly usage prefers",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "For the titles of literary works, scholarly usage prefers italics with capitalized initials. The usage of editors and publishers varies, some using italics with capitalized initials, others using Roman with capitalized initials and with or without quotation marks. Use italics (indicated in manuscript by underscoring), except in writing for a periodical that follows a different practice. Omit initial _A_ or _The_ from titles when you place the possessive before them."
+  },
+  {
+    "tag_id": "eos-V-all-right",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "All right",
+    "core_formula": "Idiomatic in familiar speech as a detached phrase in the",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Idiomatic in familiar speech as a detached phrase in the sense, \"Agreed,\" or \"Go ahead.\" In other uses better avoided. Always written as two words."
+  },
+  {
+    "tag_id": "eos-V-as-good-or-better-than",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "As good or better than",
+    "core_formula": "Expressions of this type should be corrected",
+    "checklist": [],
+    "wrong_example": "My opinion is as good or better than his.",
+    "correct_example": "My opinion is as good as his, or better (if not better).",
+    "original_description": "Expressions of this type should be corrected by rearranging the sentence."
+  },
+  {
+    "tag_id": "eos-V-as-to-whether",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "As to whether",
+    "core_formula": "_Whether_ is sufficient; see under Rule 13.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "_Whether_ is sufficient; see under Rule 13."
+  },
+  {
+    "tag_id": "eos-V-bid",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Bid",
+    "core_formula": "Takes the infinitive without _to_. The past tense in the sense,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Takes the infinitive without _to_. The past tense in the sense, \"ordered,\" is _bade_."
+  },
+  {
+    "tag_id": "eos-V-but",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "But",
+    "core_formula": "Unnecessary after _doubt_ and _help_.",
+    "checklist": [],
+    "wrong_example": "I have no doubt but that",
+    "correct_example": "I have no doubt that",
+    "original_description": "Unnecessary after _doubt_ and _help_. The too frequent use of _but_ as a conjunction leads to the fault discussed under Rule 14. A loose sentence formed with _but_ can always be converted into a periodic sentence formed with _although_, as illustrated under Rule 4. Particularly awkward is the following of one _but_ by another, making a contrast to a contrast or a reservation to a reservation. This is easily corrected by re-arrangement."
+  },
+  {
+    "tag_id": "eos-V-can",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Can",
+    "core_formula": "Means _am (is, are) able_. Not to be used as a substitute for",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Means _am (is, are) able_. Not to be used as a substitute for _may_."
+  },
+  {
+    "tag_id": "eos-V-case",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Case",
+    "core_formula": "The _Concise Oxford Dictionary_ begins its definition of this",
+    "checklist": [],
+    "wrong_example": "In many cases, the rooms were poorly ventilated.",
+    "correct_example": "Many of the rooms were poorly ventilated.",
+    "original_description": "The _Concise Oxford Dictionary_ begins its definition of this word: \"instance of a thing's occurring; usual state of affairs.\" In these two senses, the word is usually unnecessary. See Wood, _Suggestions to Authors_, pp. 68-71, and Quiller-Couch, _The Art of Writing_, pp. 103-106."
+  },
+  {
+    "tag_id": "eos-V-certainly",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Certainly",
+    "core_formula": "Used indiscriminately by some writers, much as others use",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Used indiscriminately by some writers, much as others use _very_, to intensify any and every statement. A mannerism of this kind, bad in speech, is even worse in writing."
+  },
+  {
+    "tag_id": "eos-V-character",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Character",
+    "core_formula": "Often simply redundant, used from a mere habit of",
+    "checklist": [],
+    "wrong_example": "Acts of a hostile character",
+    "correct_example": "Hostile acts",
+    "original_description": "Often simply redundant, used from a mere habit of wordiness."
+  },
+  {
+    "tag_id": "eos-V-claim-vb",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Claim, vb",
+    "core_formula": "With object-noun, means _lay claim to_. May be used with a",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "With object-noun, means _lay claim to_. May be used with a dependent clause if this sense is clearly involved: \"He claimed that he was the sole surviving heir.\" (But even here, \"claimed to be\" would be better.) Not to be used as a substitute for _declare_, _maintain_, or _charge_."
+  },
+  {
+    "tag_id": "eos-V-clever",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Clever",
+    "core_formula": "This word has been greatly overused; it is best restricted to",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "This word has been greatly overused; it is best restricted to ingenuity displayed in small matters."
+  },
+  {
+    "tag_id": "eos-V-compare",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Compare",
+    "core_formula": "To _compare to_ is to point out or imply resemblances,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "To _compare to_ is to point out or imply resemblances, between objects regarded as essentially of different order; to _compare with_ is mainly to point out differences, between objects regarded as essentially of the same order. Thus life has been compared to a pilgrimage, to a drama, to a battle; Congress may be compared with the British Parliament. Paris has been compared to ancient Athens; it may be compared with modern London."
+  },
+  {
+    "tag_id": "eos-V-consider",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Consider",
+    "core_formula": "Not followed by _as_ when it means \"believe to be.\" \"I",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Not followed by _as_ when it means \"believe to be.\" \"I consider him thoroughly competent.\" Compare, \"The lecturer considered Cromwell first as soldier and second as administrator,\" where \"considered\" means \"examined\" or \"discussed.\""
+  },
+  {
+    "tag_id": "eos-V-data",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Data",
+    "core_formula": "A plural, like _phenomena_ and _strata_.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "A plural, like _phenomena_ and _strata_."
+  },
+  {
+    "tag_id": "eos-V-dependable",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Dependable",
+    "core_formula": "A needless substitute for _reliable_, _trustworthy_.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "A needless substitute for _reliable_, _trustworthy_."
+  },
+  {
+    "tag_id": "eos-V-different-than",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Different than",
+    "core_formula": "Not permissible. Substitute _different from_, _other",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Not permissible. Substitute _different from_, _other than_, or _unlike_."
+  },
+  {
+    "tag_id": "eos-V-divided-into",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Divided into",
+    "core_formula": "Not to be misused for _composed of_. The line is",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Not to be misused for _composed of_. The line is sometimes difficult to draw; doubtless plays are divided into acts, but poems are composed of stanzas."
+  },
+  {
+    "tag_id": "eos-V-don-t",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Don't",
+    "core_formula": "Contraction of _do not_. The contraction of _does not_ is",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Contraction of _do not_. The contraction of _does not_ is _doesn't_."
+  },
+  {
+    "tag_id": "eos-V-due-to",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Due to",
+    "core_formula": "Incorrectly used for _through_, _because of_, or _owing to_,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Incorrectly used for _through_, _because of_, or _owing to_, in adverbial phrases: \"He lost the first game, due to carelessness.\" In correct use related as predicate or as modifier to a particular noun: \"This invention is due to Edison;\" \"losses due to preventable fires.\""
+  },
+  {
+    "tag_id": "eos-V-folk",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Folk",
+    "core_formula": "A collective noun, equivalent to _people_. Use the singular form",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "A collective noun, equivalent to _people_. Use the singular form only."
+  },
+  {
+    "tag_id": "eos-V-effect",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Effect",
+    "core_formula": "As noun, means _result_; as verb, means _to bring about_,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "As noun, means _result_; as verb, means _to bring about_, _accomplish_ (not to be confused with _affect_, which means \"to influence\"). As noun, often loosely used in perfunctory writing about fashions, music, painting, and other arts: \"an Oriental effect;\" \"effects in pale green;\" \"very delicate effects;\" \"broad effects;\" \"subtle effects;\" \"a charming effect was produced by.\" The writer who has a definite meaning to express will not take refuge in such vagueness."
+  },
+  {
+    "tag_id": "eos-V-etc",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Etc",
+    "core_formula": "Equivalent to _and the rest_, _and so forth_, and hence not to be",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Equivalent to _and the rest_, _and so forth_, and hence not to be used if one of these would be insufficient, that is, if the reader would be left in doubt as to any important particulars. Least open to objection when it represents the last terms of a list already given in full, or immaterial words at the end of a quotation. At the end of a list introduced by _such as_, _for example_, or any similar expression, _etc._ is incorrect."
+  },
+  {
+    "tag_id": "eos-V-fact",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Fact",
+    "core_formula": "Use this word only of matters of a kind capable of direct",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Use this word only of matters of a kind capable of direct verification, not of matters of judgment. That a particular event happened on a given date, that lead melts at a certain temperature, are facts. But such conclusions as that Napoleon was the greatest of modern generals, or that the climate of California is delightful, however incontestable they may be, are not properly facts. On the formula _the fact that_, see under Rule 13."
+  },
+  {
+    "tag_id": "eos-V-factor",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Factor",
+    "core_formula": "A hackneyed word; the expressions of which it forms part can",
+    "checklist": [],
+    "wrong_example": "His superior training was the great factor in his winning the match.",
+    "correct_example": "He won the match by being better trained.",
+    "original_description": "A hackneyed word; the expressions of which it forms part can usually be replaced by something more direct and idiomatic."
+  },
+  {
+    "tag_id": "eos-V-feature",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Feature",
+    "core_formula": "Another hackneyed word; like _factor_ it usually adds nothing",
+    "checklist": [],
+    "wrong_example": "singing of Miss A.",
+    "correct_example": "(Better use the same number of words to tell what Miss A. sang, or",
+    "original_description": "Another hackneyed word; like _factor_ it usually adds nothing to the sentence in which it occurs. As a verb, in the advertising sense of _offer as a special attraction_, to be avoided."
+  },
+  {
+    "tag_id": "eos-V-fix",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Fix",
+    "core_formula": "Colloquial in America for _arrange_, _prepare_, _mend_. In",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Colloquial in America for _arrange_, _prepare_, _mend_. In writing restrict it to its literary senses, _fasten_, _make firm or immovable_, etc."
+  },
+  {
+    "tag_id": "eos-V-get",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Get",
+    "core_formula": "The colloquial _have got_ for _have_ should not be used in",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "The colloquial _have got_ for _have_ should not be used in writing. The preferable form of the participle is _got_."
+  },
+  {
+    "tag_id": "eos-V-he-is-a-man-who",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "He is a man who",
+    "core_formula": "A common type of redundant expression; see Rule 13.",
+    "checklist": [],
+    "wrong_example": "He is a man who is very ambitious.",
+    "correct_example": "He is very ambitious.",
+    "original_description": "A common type of redundant expression; see Rule 13."
+  },
+  {
+    "tag_id": "eos-V-help",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Help",
+    "core_formula": "See under =But=.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "See under =But=."
+  },
+  {
+    "tag_id": "eos-V-however",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "However",
+    "core_formula": "In the meaning _nevertheless_, not to come first in its",
+    "checklist": [],
+    "wrong_example": "reaching camp.",
+    "correct_example": "The roads were almost impassable. At last, however, we succeeded in",
+    "original_description": "In the meaning _nevertheless_, not to come first in its sentence or clause. When _however_ comes first, it means _in whatever way_ or _to whatever extent_."
+  },
+  {
+    "tag_id": "eos-V-interesting",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Interesting",
+    "core_formula": "Avoid this word as a perfunctory means of introduction.",
+    "checklist": [],
+    "wrong_example": "An interesting story is told of",
+    "correct_example": "(Tell the story without preamble.)",
+    "original_description": "Avoid this word as a perfunctory means of introduction. Instead of announcing that what you are about to tell is interesting, make it so."
+  },
+  {
+    "tag_id": "eos-V-kind-of",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Kind of",
+    "core_formula": "Not to be used as a substitute for _rather_ (before",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Not to be used as a substitute for _rather_ (before adjectives and verbs), or except in familiar style, for _something like_ (before nouns). Restrict it to its literal sense: \"Amber is a kind of fossil resin;\" \"I dislike that kind of notoriety.\" The same holds true of _sort of_."
+  },
+  {
+    "tag_id": "eos-V-less",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Less",
+    "core_formula": "Should not be misused for _fewer_.",
+    "checklist": [],
+    "wrong_example": "He had less men than in the previous campaign",
+    "correct_example": "He had fewer men than in the previous campaign",
+    "original_description": "Should not be misused for _fewer_. _Less_ refers to quantity, _fewer_ to number. \"His troubles are less than mine\" means \"His troubles are not so great as mine.\" \"His troubles are fewer than mine\" means \"His troubles are not so numerous as mine.\" It is, however, correct to say, \"The signers of the petition were less than a hundred,\" where the round number _a hundred_ is something like a collective noun, and _less_ is thought of as meaning a less quantity or amount."
+  },
+  {
+    "tag_id": "eos-V-like",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Like",
+    "core_formula": "Not to be misused for _as_. _Like_ governs nouns and pronouns;",
+    "checklist": [],
+    "wrong_example": "We spent the evening like in the old days.",
+    "correct_example": "We spent the evening as in the old days.",
+    "original_description": "Not to be misused for _as_. _Like_ governs nouns and pronouns; before phrases and clauses the equivalent word is _as_."
+  },
+  {
+    "tag_id": "eos-V-line-along-these-lines",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Line, along these lines",
+    "core_formula": "_Line_ in the sense of _course of procedure_,",
+    "checklist": [],
+    "wrong_example": "Mr. B. also spoke along the same lines.",
+    "correct_example": "Mr. B. also spoke, to the same effect.",
+    "original_description": "_Line_ in the sense of _course of procedure_, _conduct_, _thought_, is allowable, but has been so much overworked, particularly in the phrase _along these lines_, that a writer who aims at freshness or originality had better discard it entirely."
+  },
+  {
+    "tag_id": "eos-V-literal-literally",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Literal, literally",
+    "core_formula": "Often incorrectly used in support of exaggeration",
+    "checklist": [],
+    "wrong_example": "A literal flood of abuse.",
+    "correct_example": "A flood of abuse.",
+    "original_description": "Often incorrectly used in support of exaggeration or violent metaphor."
+  },
+  {
+    "tag_id": "eos-V-lose-out",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Lose out",
+    "core_formula": "Meant to be more emphatic than _lose_, but actually less so,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Meant to be more emphatic than _lose_, but actually less so, because of its commonness. The same holds true of _try out_, _win out_, _sign up_, _register up_. With a number of verbs, _out_ and _up_ form idiomatic combinations: _find out_, _run out_, _turn out_, _cheer up_, _dry up_, _make up_, and others, each distinguishable in meaning from the simple verb. _Lose out_ is not."
+  },
+  {
+    "tag_id": "eos-V-most",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Most",
+    "core_formula": "Not to be used for _almost_.",
+    "checklist": [],
+    "wrong_example": "Most everybody",
+    "correct_example": "Almost everybody",
+    "original_description": "Not to be used for _almost_."
+  },
+  {
+    "tag_id": "eos-V-nature",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Nature",
+    "core_formula": "Often simply redundant, used like _character_.",
+    "checklist": [],
+    "wrong_example": "Acts of a hostile nature",
+    "correct_example": "Hostile acts",
+    "original_description": "Often simply redundant, used like _character_. Often vaguely used in such expressions as a \"lover of nature;\" \"poems about nature.\" Unless more specific statements follow, the reader cannot tell whether the poems have to do with natural scenery, rural life, the sunset, the untracked wilderness, or the habits of squirrels."
+  },
+  {
+    "tag_id": "eos-V-near-by",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Near by",
+    "core_formula": "Adverbial phrase, not yet fully accepted as good English,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Adverbial phrase, not yet fully accepted as good English, though the analogy of _close by_ and _hard by_ seems to justify it. _Near_, or _near at hand_, is as good, if not better. Not to be used as an adjective; use _neighboring_."
+  },
+  {
+    "tag_id": "eos-V-oftentimes-ofttimes",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Oftentimes, ofttimes",
+    "core_formula": "Archaic forms, no longer in good use. The modern",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Archaic forms, no longer in good use. The modern word is _often_."
+  },
+  {
+    "tag_id": "eos-V-one-hundred-and-one",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "One hundred and one",
+    "core_formula": "Retain the _and_ in this and similar expressions,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Retain the _and_ in this and similar expressions, in accordance with the unvarying usage of English prose from Old English times."
+  },
+  {
+    "tag_id": "eos-V-one-of-the-most",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "One of the most",
+    "core_formula": "Avoid beginning essays or paragraphs with this",
+    "checklist": [],
+    "wrong_example": "One of the ablest men that has attacked this problem.",
+    "correct_example": "One of the ablest men that have attacked this problem.",
+    "original_description": "Avoid beginning essays or paragraphs with this formula, as, \"One of the most interesting developments of modern science is, etc.;\" \"Switzerland is one of the most interesting countries of Europe.\" There is nothing wrong in this; it is simply threadbare and forcible-feeble. A common blunder is to use a singular verb in a relative clause following this or a similar expression, when the relative is the subject."
+  },
+  {
+    "tag_id": "eos-V-participle-for-verbal-noun",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Participle for verbal noun",
+    "core_formula": "Participle for verbal noun",
+    "checklist": [],
+    "wrong_example": "Do you mind me asking a question?",
+    "correct_example": "Do you mind my asking a question?",
+    "original_description": "In the left-hand column, _asking_ and _accepting_ are present participles; in the right-hand column, they are verbal nouns (gerunds). The construction shown in the left-hand column is occasionally found, and has its defenders. Yet it is easy to see that the second sentence has to do not with a prospect of the Senate, but with a prospect of accepting. In this example, at least, the construction is plainly illogical. As the authors of _The King's English_ point out, there are sentences apparently, but not really, of this type, in which the possessive is not called for. In this sentence, what the writer cannot imagine is Lincoln himself, in the act of refusing his assent. Yet the meaning would be virtually the same, except for a slight loss of vividness, if he had written, By using the possessive, the writer will always be on the safe side. In the examples above, the subject of the action is a single, unmodified term, immediately preceding the verbal noun, and the construction is as..."
+  },
+  {
+    "tag_id": "eos-V-people",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "People",
+    "core_formula": "_The people_ is a political term, not to be confused with _the",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "_The people_ is a political term, not to be confused with _the public_. From the people comes political support or opposition; from the public comes artistic appreciation or commercial patronage."
+  },
+  {
+    "tag_id": "eos-V-phase",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Phase",
+    "core_formula": "Means a stage of transition or development: \"the phases of the",
+    "checklist": [],
+    "wrong_example": "Another phase of the subject",
+    "correct_example": "Another point (another question)",
+    "original_description": "Means a stage of transition or development: \"the phases of the moon;\" \"the last phase.\" Not to be used for _aspect_ or _topic_."
+  },
+  {
+    "tag_id": "eos-V-possess",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Possess",
+    "core_formula": "Not to be used as a mere substitute for _have_ or _own_.",
+    "checklist": [],
+    "wrong_example": "He possessed great courage.",
+    "correct_example": "He had great courage (was very brave).",
+    "original_description": "Not to be used as a mere substitute for _have_ or _own_."
+  },
+  {
+    "tag_id": "eos-V-prove",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Prove",
+    "core_formula": "The past participle is _proved_.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "The past participle is _proved_."
+  },
+  {
+    "tag_id": "eos-V-respective-respectively",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Respective, respectively",
+    "core_formula": "These words may usually be omitted with",
+    "checklist": [],
+    "wrong_example": "authors.",
+    "correct_example": "Works of fiction are listed under the names of their authors.",
+    "original_description": "These words may usually be omitted with advantage. In some kinds of formal writing, as geometrical proofs, it may be necessary to use _respectively_, but it should not appear in writing on ordinary subjects."
+  },
+  {
+    "tag_id": "eos-V-shall-will",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Shall, Will",
+    "core_formula": "The future tense requires _shall_ for the first person,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "The future tense requires _shall_ for the first person, _will_ for the second and third. The formula to express the speaker's belief regarding his future action or state is _I shall_; _I will_ expresses his determination or his consent."
+  },
+  {
+    "tag_id": "eos-V-should",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Should",
+    "core_formula": "See under =Would=.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "See under =Would=."
+  },
+  {
+    "tag_id": "eos-V-so",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "So",
+    "core_formula": "Avoid, in writing, the use of _so_ as an intensifier: \"so good;\"",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Avoid, in writing, the use of _so_ as an intensifier: \"so good;\" \"so warm;\" \"so delightful.\" On the use of _so_ to introduce clauses, see Rule 4."
+  },
+  {
+    "tag_id": "eos-V-sort-of",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Sort of",
+    "core_formula": "See under =Kind of=.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "See under =Kind of=."
+  },
+  {
+    "tag_id": "eos-V-split-infinitive",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Split Infinitive",
+    "core_formula": "There is precedent from the fourteenth century",
+    "checklist": [],
+    "wrong_example": "To diligently inquire",
+    "correct_example": "To inquire diligently",
+    "original_description": "There is precedent from the fourteenth century downward for interposing an adverb between _to_ and the infinitive which it governs, but the construction is in disfavor and is avoided by nearly all careful writers."
+  },
+  {
+    "tag_id": "eos-V-state",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "State",
+    "core_formula": "Not to be used as a mere substitute for _say_, _remark_.",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Not to be used as a mere substitute for _say_, _remark_. Restrict it to the sense of _express fully or clearly_, as, \"He refused to state his objections.\""
+  },
+  {
+    "tag_id": "eos-V-student-body",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Student Body",
+    "core_formula": "A needless and awkward expression meaning no more than",
+    "checklist": [],
+    "wrong_example": "A member of the student body",
+    "correct_example": "A student",
+    "original_description": "A needless and awkward expression meaning no more than the simple word _students_."
+  },
+  {
+    "tag_id": "eos-V-system",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "System",
+    "core_formula": "Frequently used without need.",
+    "checklist": [],
+    "wrong_example": "Dayton has adopted the commission system of government.",
+    "correct_example": "Dayton has adopted government by commission.",
+    "original_description": "Frequently used without need."
+  },
+  {
+    "tag_id": "eos-V-thanking-you-in-advance",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Thanking You in Advance",
+    "core_formula": "This sounds as if the writer meant, \"It will",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "This sounds as if the writer meant, \"It will not be worth my while to write to you again.\" In making your request, write, \"Will you please,\" or \"I shall be obliged,\" and if anything further seems necessary write a letter of acknowledgment later."
+  },
+  {
+    "tag_id": "eos-V-they",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "They",
+    "core_formula": "A common inaccuracy is the use of the plural pronoun when the",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "A common inaccuracy is the use of the plural pronoun when the antecedent is a distributive expression such as _each_, _each one_, _everybody_, _every one_, _many a man_, which, though implying more than one person, requires the pronoun to be in the singular. Similar to this, but with even less justification, is the use of the plural pronoun with the antecedent _anybody_, _any one_, _somebody_, _some one_, the intention being either to avoid the awkward \"he or she,\" or to avoid committing oneself to either. Some bashful speakers even say, \"A friend of mine told me that they, etc.\" Use _he_ with all the above words, unless the antecedent is or must be feminine."
+  },
+  {
+    "tag_id": "eos-V-very",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Very",
+    "core_formula": "Use this word sparingly. Where emphasis is necessary, use words",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Use this word sparingly. Where emphasis is necessary, use words strong in themselves."
+  },
+  {
+    "tag_id": "eos-V-viewpoint",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Viewpoint",
+    "core_formula": "Write _point of view_, but do not misuse this, as many do,",
+    "checklist": [],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "Write _point of view_, but do not misuse this, as many do, for _view_ or _opinion_."
+  },
+  {
+    "tag_id": "eos-V-while",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "While",
+    "core_formula": "Avoid the indiscriminate use of this word for _and_, _but_, and",
+    "checklist": [],
+    "wrong_example": "the building is devoted to manufacturing.",
+    "correct_example": "The office and salesrooms are on the ground floor; the rest of the",
+    "original_description": "Avoid the indiscriminate use of this word for _and_, _but_, and _although_. Many writers use it frequently as a substitute for _and_ or _but_, either from a mere desire to vary the connective, or from uncertainty which of the two connectives is the more appropriate. In this use it is best replaced by a semicolon. Its use as a virtual equivalent of _although_ is allowable in sentences where this leads to no ambiguity or absurdity. This is entirely correct, as shown by the paraphrase, Compare: The paraphrase, shows why the use of _while_ is incorrect. In general, the writer will do well to use _while_ only with strict literalness, in the sense of _during the time that_."
+  },
+  {
+    "tag_id": "eos-V-whom",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Whom",
+    "core_formula": "Often incorrectly used for _who_ before _he said_ or similar",
+    "checklist": [],
+    "wrong_example": "His brother, whom he said would send him the money",
+    "correct_example": "His brother, who he said would send him the money",
+    "original_description": "Often incorrectly used for _who_ before _he said_ or similar expressions, when it is really the subject of a following verb."
+  },
+  {
+    "tag_id": "eos-V-worth-while",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Worth while",
+    "core_formula": "Overworked as a term of vague approval and (with _not_)",
+    "checklist": [],
+    "wrong_example": "His books are not worth while.",
+    "correct_example": "His books are not worth reading (are not worth one's while to read;",
+    "original_description": "Overworked as a term of vague approval and (with _not_) of disapproval. Strictly applicable only to actions: \"Is it worth while to telegraph?\" The use of _worth while_ before a noun (\"a worth while story\") is indefensible."
+  },
+  {
+    "tag_id": "eos-V-would",
+    "category": "Words and Expressions Commonly Misused",
+    "rule_name": "Would",
+    "core_formula": "A conditional statement in the first person requires _should_,",
+    "checklist": [],
+    "wrong_example": "Once a year he would visit the old mansion.",
+    "correct_example": "Once a year he visited the old mansion.",
+    "original_description": "A conditional statement in the first person requires _should_, not _would_. The equivalent of _shall_ in indirect quotation after a verb in the past tense is _should_, not _would_. To express habitual or repeated action, the past tense, without _would_, is usually sufficient, and from its brevity, more emphatic."
+  },
+  {
+    "tag_id": "eos-VI-spelling",
+    "category": "Spelling",
+    "rule_name": "Spelling and words often misspelled",
+    "core_formula": "Follow generally agreed spelling; consult the book's misspelling list and hyphenation notes.",
+    "checklist": [
+      "Double a single consonant after a stressed short vowel before -ed/-ing (with noted exceptions).",
+      "Write to-day, to-night, to-morrow hyphenated (not together).",
+      "Write any one, every one, some one, some time as two words (except some time = formerly).",
+      "Review commonly misspelled words (65 listed in the source)."
+    ],
+    "wrong_example": null,
+    "correct_example": null,
+    "original_description": "The spelling of English words is not fixed and invariable, nor does it depend on any other authority than general agreement. At the present day there is practically unanimous agreement as to the spelling of most words. In the list below, for example, _rime_ for _rhyme_ is the only allowable variation; all the other forms are co-extensive with the English language. At any given moment, however, a relatively small number of words may be spelled in more than one way. Gradually, as a rule, one of these forms comes to be generally preferred, and the less customary form comes to look obsolete and is discarded. From time to time new forms, mostly simplifications, are introduced by innovators, and either win their place or die of neglect. The practical objection to unaccepted and over-simplified spellings is the disfavor with which they are received by the reader. They distract his attention and exhaust his patience. He reads the form _though_ automatically, without thought of its needless..."
+  }
+]

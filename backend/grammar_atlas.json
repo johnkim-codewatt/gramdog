@@ -1,0 +1,456 @@
+[
+  {
+    "tag_id": "can/could_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "can/could 사용법",
+    "core_formula": "[can/could] + 동사원형",
+    "checklist": [
+      "'can'은 현재 또는 일반적인 능력을 나타낼 때 사용한다.",
+      "'could'는 과거의 능력 또는 현재에 대한 공손한 요청/제안을 나타낼 때 사용한다.",
+      "정중하게 요청하거나 제안할 때는 'could you...?'를 사용한다."
+    ],
+    "wrong_example": "I can swim when I was a child.",
+    "correct_example": "I could swim when I was a child."
+  },
+  {
+    "tag_id": "must/have_to_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "must/have to 사용법",
+    "core_formula": "[must/have to] + 동사원형",
+    "checklist": [
+      "'must'는 강한 의무나 확신을 나타낸다.",
+      "'have to'는 의무를 나타내지만 'must'보다 더 일반적인 상황에서 쓰인다.",
+      "'have to'는 부정문에서 'don't/doesn't/didn't have to'로 의무의 부재를 나타낸다."
+    ],
+    "wrong_example": "I must to go to the store.",
+    "correct_example": "I must go to the store."
+  },
+  {
+    "tag_id": "would_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "would 사용법",
+    "core_formula": "[would] + 동사원형",
+    "checklist": [
+      "'would'는 과거의 습관을 나타내거나 공손한 요청을 할 때 사용된다.",
+      "가정법에서 'if + 과거형 동사'와 함께 사용하여 현재 혹은 미래의 상상 상황을 서술한다."
+    ],
+    "wrong_example": "If I knew, I will tell you.",
+    "correct_example": "If I knew, I would tell you."
+  },
+  {
+    "tag_id": "wish_past_simple_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "wish + 과거형 사용법",
+    "core_formula": "wish + 과거형 동사",
+    "checklist": [
+      "'wish' 다음에는 현실과 반대되는 현재 상황을 가정할 때 과거형 동사를 사용한다.",
+      "'be동사'는 모든 주어에 대해 'were'로 변환한다."
+    ],
+    "wrong_example": "I wish I am taller.",
+    "correct_example": "I wish I were taller."
+  },
+  {
+    "tag_id": "wish_past_perfect_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "wish + 과거완료 사용법",
+    "core_formula": "wish + had + p.p.",
+    "checklist": [
+      "'wish' 다음에 과거에 있었던 것을 후회하거나 아쉬움을 나타낼 때 과거완료 형태를 사용한다.",
+      "이 표현은 과거 상황과 반대되는 사실을 나타낸다."
+    ],
+    "wrong_example": "I wish I didn't eat that much.",
+    "correct_example": "I wish I hadn't eaten that much."
+  },
+  {
+    "tag_id": "if_only_past_simple_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "if only + 과거형 사용법",
+    "core_formula": "if only + 과거형 동사",
+    "checklist": [
+      "'if only'는 현재 상황에 대한 아쉬움을 나타낼 때 과거형 동사와 함께 사용한다.",
+      "'be' 동사는 모든 주어에 대해 'were'로 변환한다."
+    ],
+    "wrong_example": "If only I was rich.",
+    "correct_example": "If only I were rich."
+  },
+  {
+    "tag_id": "if_only_past_perfect_usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "if only + 과거완료 사용법",
+    "core_formula": "if only + had + p.p.",
+    "checklist": [
+      "'if only'는 과거의 상황에 대한 아쉬움을 나타낼 때 과거완료 동사를 사용한다.",
+      "이 표현은 실제 상황과 반대되는 과거의 사실을 나타낸다."
+    ],
+    "wrong_example": "If only we didn't miss the bus.",
+    "correct_example": "If only we hadn't missed the bus."
+  },
+  {
+    "tag_id": "should_have_p.p._usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "should have + 과거분사 사용법",
+    "core_formula": "should have + p.p.",
+    "checklist": [
+      "'should have'는 과거의 잘못된 판단에 대한 후회를 표현할 때 사용된다.",
+      "이 표현은 '과거에는 그렇게 하지 않았지만, 하지 못해서 후회한다'는 의미를 나타낸다."
+    ],
+    "wrong_example": "You should go there earlier.",
+    "correct_example": "You should have gone there earlier."
+  },
+  {
+    "tag_id": "could_have_p.p._usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "could have + 과거분사 사용법",
+    "core_formula": "could have + p.p.",
+    "checklist": [
+      "'could have'는 과거에 가능성이 있었으나 실행되지 않은 일을 표현할 때 사용된다.",
+      "'could have'는 '그랬을 수도 있었지만 실제로는 그러지 않았다'는 의미를 담고 있다."
+    ],
+    "wrong_example": "I could win if I tried harder.",
+    "correct_example": "I could have won if I had tried harder."
+  },
+  {
+    "tag_id": "might_have_p.p._usage",
+    "category": "Modals_Subjunctive",
+    "rule_name": "might have + 과거분사 사용법",
+    "core_formula": "might have + p.p.",
+    "checklist": [
+      "'might have'는 과거에 일어났을지 모르는 일에 대한 불확실한 추측을 나타낸다.",
+      "이 표현은 '그랬을 수도 있지만 확실하진 않다'는 의미를 전달한다."
+    ],
+    "wrong_example": "He might be late yesterday.",
+    "correct_example": "He might have been late yesterday."
+  },
+  {
+    "tag_id": "infinitive_as_subject",
+    "category": "Verbals",
+    "rule_name": "주어로 쓰인 to부정사",
+    "core_formula": "To + 동사원형",
+    "checklist": [
+      "to부정사가 주어 위치에 올 때 동사의 원형을 사용했는가?",
+      "문장의 주어로서 적절한 의미를 전달하고 있는가?"
+    ],
+    "wrong_example": "To studying is hard.",
+    "correct_example": "To study is hard."
+  },
+  {
+    "tag_id": "gerund_as_subject",
+    "category": "Verbals",
+    "rule_name": "주어로 쓰인 동명사",
+    "core_formula": "동사원형 + ing",
+    "checklist": [
+      "동명사가 주어로 사용될 때 동사의 -ing 형태를 사용했는가?",
+      "동명사가 주어 역할을 하여 문장이 자연스럽게 이어지는가?"
+    ],
+    "wrong_example": "Study English is fun.",
+    "correct_example": "Studying English is fun."
+  },
+  {
+    "tag_id": "participle_adjective_present",
+    "category": "Verbals",
+    "rule_name": "현재분사형 형용사",
+    "core_formula": "동사원형 + ing",
+    "checklist": [
+      "명사를 수식하는 형용사가 현재분사 형태인가?",
+      "형용사가 수식하는 명사가 현재도 진행 중이거나 계속되는 상태인가?"
+    ],
+    "wrong_example": "A interest book was on the table.",
+    "correct_example": "An interesting book was on the table."
+  },
+  {
+    "tag_id": "participle_adjective_past",
+    "category": "Verbals",
+    "rule_name": "과거분사형 형용사",
+    "core_formula": "동사원형 + ed/en",
+    "checklist": [
+      "명사를 수식하는 형용사가 과거분사 형태인가?",
+      "수식받는 명사가 이미 완료된 상태나 영향을 받은 상태인가?"
+    ],
+    "wrong_example": "He is an excite boy.",
+    "correct_example": "He is an excited boy."
+  },
+  {
+    "tag_id": "infinitive_of_purpose",
+    "category": "Verbals",
+    "rule_name": "목적을 나타내는 to부정사",
+    "core_formula": "to + 동사원형",
+    "checklist": [
+      "to부정사가 목적을 나타내는 문장에서 사용하는가?",
+      "목적을 나타내는 의미가 문맥상 적절한가?"
+    ],
+    "wrong_example": "I went to library for study.",
+    "correct_example": "I went to the library to study."
+  },
+  {
+    "tag_id": "gerund_after_preposition",
+    "category": "Verbals",
+    "rule_name": "전치사 뒤의 동명사",
+    "core_formula": "전치사 + 동사원형 + ing",
+    "checklist": [
+      "전치사 뒤에 동명사가 오는지 확인했는가?",
+      "전치사와 동명사의 조합이 의미가 통하는가?"
+    ],
+    "wrong_example": "He is interested in play guitar.",
+    "correct_example": "He is interested in playing guitar."
+  },
+  {
+    "tag_id": "infinitive_as_adjective",
+    "category": "Verbals",
+    "rule_name": "형용사로 쓰인 to부정사",
+    "core_formula": "명사 + to + 동사원형",
+    "checklist": [
+      "명사를 수식하거나 설명하는 데 to부정사를 사용했는가?",
+      "수식받는 명사와 to부정사의 연결이 의미상 적절한가?"
+    ],
+    "wrong_example": "I have a paper to write on.",
+    "correct_example": "I have a paper to write."
+  },
+  {
+    "tag_id": "participle_construction",
+    "category": "Verbals",
+    "rule_name": "분사구문",
+    "core_formula": "현재/과거분사 + 부대적인 설명",
+    "checklist": [
+      "분사구문이 주절의 주어와 관련된 정보를 추가 제공하는가?",
+      "분사가 현재분사/과거분사 중 적절하게 사용되었는가?"
+    ],
+    "wrong_example": "Knowing the truth, it was a relief.",
+    "correct_example": "Knowing the truth, she felt a relief."
+  },
+  {
+    "tag_id": "gerund_as_object",
+    "category": "Verbals",
+    "rule_name": "목적어로 쓰인 동명사",
+    "core_formula": "동사원형 + ing",
+    "checklist": [
+      "동사의 목적어로 동명사를 사용했는가?",
+      "주어가 동명사가 나타내는 행동을 직접적으로 받는가?"
+    ],
+    "wrong_example": "She enjoys to swim.",
+    "correct_example": "She enjoys swimming."
+  },
+  {
+    "tag_id": "passive_infinitive",
+    "category": "Verbals",
+    "rule_name": "수동적 의미의 to부정사",
+    "core_formula": "to be + p.p.",
+    "checklist": [
+      "문장의 주체가 행동을 받는 경우 to be + 과거분사 형태 사용했는가?",
+      "문장의 상태나 결과를 표현하는 데 목적의 수동적 의미가 적절한가?"
+    ],
+    "wrong_example": "The books are to return by Monday.",
+    "correct_example": "The books are to be returned by Monday."
+  },
+  {
+    "tag_id": "perfect_infinitive",
+    "category": "Verbals",
+    "rule_name": "완료적 의미의 to부정사",
+    "core_formula": "to have + p.p.",
+    "checklist": [
+      "과거의 특정 시점 이전에 완료된 동작을 나타내는가?",
+      "문맥상 완료적 의미로 적절한 용법인가?"
+    ],
+    "wrong_example": "She seems to finish the project.",
+    "correct_example": "She seems to have finished the project."
+  },
+  {
+    "tag_id": "gerund_after_certain_verbs",
+    "category": "Verbals",
+    "rule_name": "특정 동사 뒤 동명사 사용",
+    "core_formula": "동사 + 동사원형 + ing",
+    "checklist": [
+      "동사는 동명사를 목적어로 요구하는가?",
+      "동사의 특징에 맞게 동명사 사용이 적절한가?"
+    ],
+    "wrong_example": "She suggested to travel together.",
+    "correct_example": "She suggested traveling together."
+  },
+  {
+    "tag_id": "noun_countable_singular",
+    "category": "Parts_of_Speech",
+    "rule_name": "가산 명사 단수형",
+    "core_formula": "Singular countable nouns",
+    "checklist": [
+      "Check if the singular noun needs an article (a/an/the).",
+      "Ensure the noun represents one item or entity.",
+      "Verify that context allows for singular use."
+    ],
+    "wrong_example": "I bought book yesterday.",
+    "correct_example": "I bought a book yesterday."
+  },
+  {
+    "tag_id": "noun_uncountable",
+    "category": "Parts_of_Speech",
+    "rule_name": "불가산 명사",
+    "core_formula": "Uncountable nouns do not take a/an",
+    "checklist": [
+      "Verify that the noun is indeed uncountable in English.",
+      "Do not use 'a/an' with uncountable nouns.",
+      "Check for correct use of quantifiers like 'some', 'much', 'a lot of'."
+    ],
+    "wrong_example": "I need an advice.",
+    "correct_example": "I need some advice."
+  },
+  {
+    "tag_id": "article_definite",
+    "category": "Parts_of_Speech",
+    "rule_name": "정관사",
+    "core_formula": "the + specific noun",
+    "checklist": [
+      "Determine if the noun is specific and known to both the speaker and listener.",
+      "Use with unique entities or previously mentioned nouns.",
+      "Avoid using 'the' with general or unspecified nouns."
+    ],
+    "wrong_example": "The science is interesting.",
+    "correct_example": "Science is interesting."
+  },
+  {
+    "tag_id": "article_indefinite",
+    "category": "Parts_of_Speech",
+    "rule_name": "부정관사",
+    "core_formula": "a/an + non-specific singular noun",
+    "checklist": [
+      "Use 'a' before consonant sounds and 'an' before vowel sounds.",
+      "Ensure the noun is singular and countable.",
+      "Check that the noun is not specified."
+    ],
+    "wrong_example": "I saw a elephant.",
+    "correct_example": "I saw an elephant."
+  },
+  {
+    "tag_id": "pronoun_personal",
+    "category": "Parts_of_Speech",
+    "rule_name": "인칭 대명사",
+    "core_formula": "I, you, he, she, it, we, they",
+    "checklist": [
+      "Confirm the pronoun matches the intended antecedent.",
+      "Ensure correct case usage (subjective, objective, possessive).",
+      "Check that plurals and singulars are used correctly."
+    ],
+    "wrong_example": "Me saw her yesterday.",
+    "correct_example": "I saw her yesterday."
+  },
+  {
+    "tag_id": "adjective_comparative",
+    "category": "Parts_of_Speech",
+    "rule_name": "형용사 비교급",
+    "core_formula": "adj + -er/more + than",
+    "checklist": [
+      "Use '-er' for short adjectives and 'more' for longer adjectives.",
+      "Ensure the comparison is clear and valid.",
+      "Check that 'than' follows the comparative adjective to complete the comparison."
+    ],
+    "wrong_example": "She is more taller than her sister.",
+    "correct_example": "She is taller than her sister."
+  },
+  {
+    "tag_id": "adverb_intensifier",
+    "category": "Parts_of_Speech",
+    "rule_name": "부사 강조",
+    "core_formula": "very/so/too + adjective/adverb",
+    "checklist": [
+      "Check that the intensifier correctly modifies the adjective or adverb.",
+      "Ensure the use of intensifiers matches the context in terms of emphasis.",
+      "Avoid overuse which can lead to redundancy."
+    ],
+    "wrong_example": "He is very tall more than his brother.",
+    "correct_example": "He is much taller than his brother."
+  },
+  {
+    "tag_id": "simple_present_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "현재형 문장 구조",
+    "core_formula": "[주어] + 동사 원형 (3인칭 단수일 경우 동사에 -s/-es 추가)",
+    "checklist": [
+      "주어와 동사의 수가 일치하는지 확인한다.",
+      "3인칭 단수 주어일 경우 동사에 -s/-es를 붙였는지 확인한다."
+    ],
+    "wrong_example": "He go to school every day.",
+    "correct_example": "He goes to school every day."
+  },
+  {
+    "tag_id": "simple_past_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "과거형 문장 구조",
+    "core_formula": "[주어] + 동사의 과거형",
+    "checklist": [
+      "주어에 맞는 과거형 동사를 사용했는지 확인한다.",
+      "불규칙 동사의 과거형을 정확하게 사용했는지 확인한다."
+    ],
+    "wrong_example": "She go to the park yesterday.",
+    "correct_example": "She went to the park yesterday."
+  },
+  {
+    "tag_id": "passive_voice_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "수동태 구조",
+    "core_formula": "[주어] + [be 동사] + 과거분사 (p.p.)",
+    "checklist": [
+      "문장의 동작의 결과를 받는 주체가 주어로 사용되었는지 확인한다.",
+      "[Be 동사]의 시제가 주어 및 문맥에 맞게 사용되었는지 확인한다.",
+      "주된 동사가 p.p.로 변형되었는지 확인한다."
+    ],
+    "wrong_example": "The letter writes by her.",
+    "correct_example": "The letter is written by her."
+  },
+  {
+    "tag_id": "subject_verb_agreement_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "주어 동사 수 일치",
+    "core_formula": "[주어] + [동사] (주어와 동사의 수 일치)",
+    "checklist": [
+      "단수 주어는 단수 동사를, 복수 주어는 복수 동사를 사용했는지 확인한다.",
+      "집합 명사나 불가산 명사가 주어일 경우 적절한 동사를 사용했는지 확인한다."
+    ],
+    "wrong_example": "The team are winning.",
+    "correct_example": "The team is winning."
+  },
+  {
+    "tag_id": "inversion_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "도치구조",
+    "core_formula": "부정어 + [조동사/Be] + [주어] + [동사]",
+    "checklist": [
+      "문장 내에 부사구나 부정어가 포함되어 도치가 필요한 경우인지 확인한다.",
+      "조동사 또는 Be 동사와 주어의 위치가 바뀌었는지 확인한다."
+    ],
+    "wrong_example": "Never I have seen such a thing.",
+    "correct_example": "Never have I seen such a thing."
+  },
+  {
+    "tag_id": "emphasis_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "강조구문",
+    "core_formula": "It is/was ... that ...",
+    "checklist": [
+      "강조하고자 하는 부분이 [It is/was ... that ...] 형식을 따르고 있는지 확인한다.",
+      "강조 구문으로 인해 문장의 의미가 달라지지 않았는지 확인한다."
+    ],
+    "wrong_example": "It was yesterday I saw him.",
+    "correct_example": "It was yesterday that I saw him."
+  },
+  {
+    "tag_id": "complex_sentence_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "복문 구조",
+    "core_formula": "주절 + 종속절",
+    "checklist": [
+      "주절과 종속절을 연결하는 접속사가 적절하게 사용되었는지 확인한다.",
+      "두 절 사이의 논리적인 연결성이 명확한지 확인한다."
+    ],
+    "wrong_example": "She was tired she didn’t sleep well.",
+    "correct_example": "She was tired because she didn’t sleep well."
+  },
+  {
+    "tag_id": "compound_sentence_structure",
+    "category": "Sentence_Structure",
+    "rule_name": "병렬 구조",
+    "core_formula": "독립절 + 접속사 + 독립절",
+    "checklist": [
+      "병렬 구조 내 각 요소가 동일한 문법 형태를 유지하고 있는지 확인한다.",
+      "접속사로 연결된 요소 사이의 관계가 명확한지 확인한다."
+    ],
+    "wrong_example": "He wanted to go home and was hungry.",
+    "correct_example": "He wanted to go home and eat."
+  }
+]
