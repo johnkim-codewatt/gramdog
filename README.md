@@ -38,7 +38,7 @@
 
 ## backend
 
-**역할:** FastAPI REST API, LangGraph 기반 튜터 파이프라인(문제 생성·피드백·이력 RAG 등), PostgreSQL(pgvector)과 연동한 학습 이력·문법 데이터 처리. CLI 스크립트(`app.py` 등)로 로컬 대화형 테스트도 가능합니다.
+**역할:** FastAPI REST API, LangGraph 기반 튜터 파이프라인(문제 생성·피드백·이력 RAG 등), PostgreSQL(pgvector)과 연동한 학습 이력·문법 데이터 처리.
 
 **사용 기술**
 
@@ -51,7 +51,6 @@
 - [Docker](https://www.docker.com/) / Compose (DB 및 배포용 이미지 구성)
 
 HTTP API 엔트리포인트는 `backend/api.py`의 FastAPI `app` 객체입니다. (로컬 실행 시 `uvicorn api:app --reload` 등)
-
 DB는 `backend/docker-compose.yml`을 참고하면 됩니다. 설계·작업 기록은 위 **doc** 섹션을 참고하세요.
 
 ---
@@ -67,4 +66,3 @@ DB는 `backend/docker-compose.yml`을 참고하면 됩니다. 설계·작업 기
 - [TensorFlow Lite](https://www.tensorflow.org/lite)
 - 모델 변환·실험 스크립트: `mobile/export_tflite.py` 등 — [PyTorch](https://pytorch.org/), [Hugging Face Transformers](https://huggingface.co/docs/transformers), [LiteRT / litert-torch](https://ai.google.dev/edge/litert) (변환 파이프라인에 사용)
 
-앱 모듈 경로: `mobile/AITestApp/`. 에뮬레이터 기본 백엔드 주소는 `10.0.2.2`로 맞춰 둔 설정이 있습니다(`BACKEND_BASE_URL` Gradle 프로퍼티로 변경 가능).
